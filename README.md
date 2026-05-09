@@ -17,8 +17,11 @@ To run this application, you need **Go 1.26** or later installed. You can downlo
 ## Installation
 
 # Clone the repository
-git clone <your-repo-url>
-cd <repo-name>
+
+```bash
+git clone https://github.com/Daniel-Makhoba-Emmanuel/Basic-Counter-TUI.git
+cd Basic-Counter-TUI
+```
 
 # Go will automatically download dependencies when you run:
 go run .
