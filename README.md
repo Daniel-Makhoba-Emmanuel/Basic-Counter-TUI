@@ -42,3 +42,13 @@ go run .
 | `up` / `k` | Increment counter |
 | `down` / `j` | Decrement counter |
 | `q` / `Ctrl+C` | Quit application |
+
+
+## Releases
+
+### [v1.0.0] - 2026-05-09
+#### Added
+- Initial functional Counter TUI.
+- Support for arrow keys and Vim-style (`k`/`j`) navigation.
+- Integration with Bubble Tea v2.
+- Support for quit signals (`q` and `Ctrl+C`).
